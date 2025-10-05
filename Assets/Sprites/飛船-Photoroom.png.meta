@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cdaf82a5e69fec24e9174b4d970e6ccb
+guid: d6bf637cd16254e5990548ce8f927c9e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2599116650747471989
-    second: finish_0
+      213: 448571541811879708
+    second: "\u98DB\u8239-Photoroom_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -87,7 +87,20 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -100,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: finish_0
+      name: "\u98DB\u8239-Photoroom_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 500
-        height: 500
+        x: 99
+        y: 149
+        width: 1086
+        height: 471
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b87d4664d251eebd0800000000000000
-      internalID: -2599116650747471989
+      spriteID: c1fdb0ec075a93600800000000000000
+      internalID: 448571541811879708
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      finish_0: -2599116650747471989
+      "\u98DB\u8239-Photoroom_0": 448571541811879708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
