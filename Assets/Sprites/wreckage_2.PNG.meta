@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 5ae86be18307b4f6996a4a90ab1bd44d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6216071397986337661
+    second: wreckage_2_0
+  - first:
+      213: 4632850221948384239
+    second: wreckage_2_1
+  - first:
+      213: 2990271669235380038
+    second: wreckage_2_2
+  - first:
+      213: 5547225008017888176
+    second: wreckage_2_3
+  - first:
+      213: 1990055239449639724
+    second: wreckage_2_4
+  - first:
+      213: 8069253665602468665
+    second: wreckage_2_5
+  - first:
+      213: 709632629300618569
+    second: wreckage_2_6
+  - first:
+      213: 1357278752690469149
+    second: wreckage_2_7
+  - first:
+      213: -6776111343037806597
+    second: wreckage_2_8
+  - first:
+      213: 8980783002967604905
+    second: wreckage_2_9
+  - first:
+      213: -398588108251395580
+    second: wreckage_2_10
+  - first:
+      213: 3596771080073021366
+    second: wreckage_2_11
+  - first:
+      213: 7224135143840931153
+    second: wreckage_2_12
+  - first:
+      213: 4017475818418600685
+    second: wreckage_2_13
+  - first:
+      213: 2510962579830922061
+    second: wreckage_2_14
+  - first:
+      213: -2108177757104662987
+    second: wreckage_2_15
+  - first:
+      213: -5813699188567930390
+    second: wreckage_2_16
+  - first:
+      213: 3702202641296079790
+    second: wreckage_2_17
+  - first:
+      213: 1165393211920548110
+    second: wreckage_2_18
+  - first:
+      213: -8148213820309431512
+    second: wreckage_2_19
+  - first:
+      213: -6460921025087822954
+    second: wreckage_2_20
+  - first:
+      213: 7834058517561378810
+    second: wreckage_2_21
+  - first:
+      213: -7388658547200461936
+    second: wreckage_2_22
+  - first:
+      213: -3959071462882423480
+    second: wreckage_2_23
+  - first:
+      213: -5379048283982345267
+    second: wreckage_2_24
+  - first:
+      213: 2818349265872292746
+    second: wreckage_2_25
+  - first:
+      213: -1948261605248970359
+    second: wreckage_2_26
+  - first:
+      213: -6903892717289581845
+    second: wreckage_2_27
+  - first:
+      213: 7542765386866618624
+    second: wreckage_2_28
+  - first:
+      213: -7893403736856385297
+    second: wreckage_2_29
+  - first:
+      213: 5376801275647114821
+    second: wreckage_2_30
+  - first:
+      213: 7185319522749922565
+    second: wreckage_2_31
+  - first:
+      213: -7064015056970703201
+    second: wreckage_2_32
+  - first:
+      213: 6732118779939453283
+    second: wreckage_2_33
+  - first:
+      213: 3197048919888396135
+    second: wreckage_2_34
+  - first:
+      213: -5265440861017235212
+    second: wreckage_2_35
+  - first:
+      213: -2560161143196478741
+    second: wreckage_2_36
+  - first:
+      213: 1897724932201668223
+    second: wreckage_2_37
+  - first:
+      213: -2325941627860756197
+    second: wreckage_2_38
+  - first:
+      213: -1201464396220115381
+    second: wreckage_2_39
+  - first:
+      213: 4523904781007767158
+    second: wreckage_2_40
+  - first:
+      213: 7113164062788926108
+    second: wreckage_2_41
+  - first:
+      213: 8065543310784189436
+    second: wreckage_2_42
+  - first:
+      213: 4197551241912367652
+    second: wreckage_2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wreckage_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cfe886ff31cb9a0800000000000000
+      internalID: -6216071397986337661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 480
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3b2d02bb03b4040800000000000000
+      internalID: 4632850221948384239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 463
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f60b27d349f7920800000000000000
+      internalID: 2990271669235380038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 448
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3d11c11c3bbfc40800000000000000
+      internalID: 5547225008017888176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 429
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bfcce42b81e9b10800000000000000
+      internalID: 1990055239449639724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 427
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf0c4c47fbbff60800000000000000
+      internalID: 8069253665602468665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 435
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456d76dd1f19d900800000000000000
+      internalID: 709632629300618569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 436
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19fc4b95d506d210800000000000000
+      internalID: 1357278752690469149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 432
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78cb782aa66f1a0800000000000000
+      internalID: -6776111343037806597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 423
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeffb81f8622ac70800000000000000
+      internalID: 8980783002967604905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 413
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a0bf33a3ee77af0800000000000000
+      internalID: -398588108251395580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 429
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b78626ad3c4ae130800000000000000
+      internalID: 3596771080073021366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 196
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ddd0263a8414460800000000000000
+      internalID: 7224135143840931153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 183
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaff8aa8f0f0c730800000000000000
+      internalID: 4017475818418600685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 190
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bde17a92bb8d220800000000000000
+      internalID: 2510962579830922061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 128
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369560ef7f3eb2e0800000000000000
+      internalID: -2108177757104662987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 190
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98e6ae367915fa0800000000000000
+      internalID: -5813699188567930390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 190
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab37f8efadd06330800000000000000
+      internalID: 3702202641296079790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 190
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010d24a3fe4c2010800000000000000
+      internalID: 1165393211920548110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 166
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b178693babbee80800000000000000
+      internalID: -8148213820309431512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 117
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693a9c12f823656a0800000000000000
+      internalID: -6460921025087822954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 171
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78ed017ba28bc60800000000000000
+      internalID: 7834058517561378810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0937677b236367990800000000000000
+      internalID: -7388658547200461936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 180
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dc1860b7d8e09c0800000000000000
+      internalID: -3959071462882423480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbce8bc518c955b0800000000000000
+      internalID: -5379048283982345267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 181
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0d4d99b9cc1720800000000000000
+      internalID: 2818349265872292746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 169
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9815a91746266f4e0800000000000000
+      internalID: -1948261605248970359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25c8ae6227030a0800000000000000
+      internalID: -6903892717289581845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001fb44f7294da860800000000000000
+      internalID: 7542765386866618624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 136
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe82fe35f1ff47290800000000000000
+      internalID: -7893403736856385297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e30dec54c3e9a40800000000000000
+      internalID: 5376801275647114821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3037590267b360800000000000000
+      internalID: 7185319522749922565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_32
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 155
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e10418bb397fd90800000000000000
+      internalID: -7064015056970703201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369f600bc5a4d6d50800000000000000
+      internalID: 6732118779939453283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 153
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f7e7fcd033e5c20800000000000000
+      internalID: 3197048919888396135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 155
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ad353f656de6b0800000000000000
+      internalID: -5265440861017235212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 126
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2140c210b787cd0800000000000000
+      internalID: -2560161143196478741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 126
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e584175c2165a10800000000000000
+      internalID: 1897724932201668223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 141
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19d01fa96898bfd0800000000000000
+      internalID: -2325941627860756197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 63
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46550d4f7a835fe0800000000000000
+      internalID: -1201464396220115381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c8adfd6328ce30800000000000000
+      internalID: 4523904781007767158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9abb97270907b260800000000000000
+      internalID: 7113164062788926108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 104
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3d1d778e09eef60800000000000000
+      internalID: 8065543310784189436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wreckage_2_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42abfac6d92b04a30800000000000000
+      internalID: 4197551241912367652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wreckage_2_0: -6216071397986337661
+      wreckage_2_1: 4632850221948384239
+      wreckage_2_10: -398588108251395580
+      wreckage_2_11: 3596771080073021366
+      wreckage_2_12: 7224135143840931153
+      wreckage_2_13: 4017475818418600685
+      wreckage_2_14: 2510962579830922061
+      wreckage_2_15: -2108177757104662987
+      wreckage_2_16: -5813699188567930390
+      wreckage_2_17: 3702202641296079790
+      wreckage_2_18: 1165393211920548110
+      wreckage_2_19: -8148213820309431512
+      wreckage_2_2: 2990271669235380038
+      wreckage_2_20: -6460921025087822954
+      wreckage_2_21: 7834058517561378810
+      wreckage_2_22: -7388658547200461936
+      wreckage_2_23: -3959071462882423480
+      wreckage_2_24: -5379048283982345267
+      wreckage_2_25: 2818349265872292746
+      wreckage_2_26: -1948261605248970359
+      wreckage_2_27: -6903892717289581845
+      wreckage_2_28: 7542765386866618624
+      wreckage_2_29: -7893403736856385297
+      wreckage_2_3: 5547225008017888176
+      wreckage_2_30: 5376801275647114821
+      wreckage_2_31: 7185319522749922565
+      wreckage_2_32: -7064015056970703201
+      wreckage_2_33: 6732118779939453283
+      wreckage_2_34: 3197048919888396135
+      wreckage_2_35: -5265440861017235212
+      wreckage_2_36: -2560161143196478741
+      wreckage_2_37: 1897724932201668223
+      wreckage_2_38: -2325941627860756197
+      wreckage_2_39: -1201464396220115381
+      wreckage_2_4: 1990055239449639724
+      wreckage_2_40: 4523904781007767158
+      wreckage_2_41: 7113164062788926108
+      wreckage_2_42: 8065543310784189436
+      wreckage_2_43: 4197551241912367652
+      wreckage_2_5: 8069253665602468665
+      wreckage_2_6: 709632629300618569
+      wreckage_2_7: 1357278752690469149
+      wreckage_2_8: -6776111343037806597
+      wreckage_2_9: 8980783002967604905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
