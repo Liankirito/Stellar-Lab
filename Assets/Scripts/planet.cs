@@ -19,31 +19,29 @@ public class planet : MonoBehaviour
         DropResource();
     }
 
+    // 在 PlanetLoot.cs 裡面
+
     void DropResource()
     {
         float totalChance = 0f;
-        // 計算總權重
         foreach (LootItem item in lootTable)
         {
             totalChance += item.dropChance;
         }
 
-        // 產生一個 0 到總權重之間的隨機數
         float randomValue = Random.Range(0, totalChance);
 
-        // 輪盤法決定掉落物
         foreach (LootItem item in lootTable)
         {
             if (randomValue < item.dropChance)
             {
                 // 我們抽中這個了！
-                Debug.Log(gameObject.name + " 掉落了資源: " + item.resourceName);
-                // 找到資源後就可以跳出迴圈了
+                // 把原本的 Debug.Log(...) 換成呼叫我們的倉庫管理員
+                InventoryManager.AddResource(item.resourceName, 1); // 假設一次只掉落 1 個
                 return;
             }
             else
             {
-                // 減去這個物品的權重，繼續抽下一個
                 randomValue -= item.dropChance;
             }
         }
