@@ -4,6 +4,9 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+
+/* AI-assisted */
+
 public class ClickCraft : MonoBehaviour
 {
     [Header("Required Components")]

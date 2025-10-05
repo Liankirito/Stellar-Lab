@@ -23,6 +23,9 @@ public static class InventoryManager
         }
 
         Debug.Log("Obtain: " + resourceName + " x" + amount + "。 total: " + inventory[resourceName]);
+        
+        // 通知元素顯示管理器更新顯示
+        NotifyInventoryChanged();
     }
 
     // 查詢某個資源數量的方法 (未來會用到)
@@ -35,6 +38,50 @@ public static class InventoryManager
         else
         {
             return 0;
+        }
+    }
+    
+    /// <summary>
+    /// 使用（消耗）資源
+    /// </summary>
+    /// <param name="resourceName">資源名稱</param>
+    /// <param name="amount">使用數量</param>
+    /// <returns>是否成功使用</returns>
+    public static bool UseResource(string resourceName, int amount)
+    {
+        if (GetResourceCount(resourceName) >= amount)
+        {
+            inventory[resourceName] -= amount;
+            
+            // 如果數量變為 0，可以選擇是否移除該項目（這裡保留為 0）
+            if (inventory[resourceName] <= 0)
+            {
+                inventory[resourceName] = 0;
+            }
+            
+            Debug.Log($"Used: {resourceName} x{amount}. Remaining: {inventory[resourceName]}");
+            
+            // 通知元素顯示管理器更新顯示
+            NotifyInventoryChanged();
+            
+            return true;
+        }
+        else
+        {
+            Debug.LogWarning($"Not enough {resourceName}! Available: {GetResourceCount(resourceName)}, Required: {amount}");
+            return false;
+        }
+    }
+    
+    /// <summary>
+    /// 通知所有元素更新數量顯示
+    /// </summary>
+    private static void NotifyInventoryChanged()
+    {
+        ElementInventoryDisplayManager displayManager = Object.FindObjectOfType<ElementInventoryDisplayManager>();
+        if (displayManager != null)
+        {
+            displayManager.ForceUpdateAllElementsDisplay();
         }
     }
 }

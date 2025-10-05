@@ -1,6 +1,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+/* AI-assisted */
+
 [System.Serializable]
 public class Recipe
 {
