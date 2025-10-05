@@ -1,15 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: c75b611d87af08145a2971d437daa713
-=======
-guid: 7c22e5414decc44c28d57c059ed28b45
->>>>>>> 5abc9269e73658c2abd0609c27209ac1c11a2be5
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -6690208722482884117
     second: "\u5929\u79E4\u5EA7_0"
-<<<<<<< HEAD
   - first:
       213: 6684365217115258478
     second: "\u5929\u79E4\u5EA7_1"
@@ -22,8 +17,6 @@ TextureImporter:
   - first:
       213: -459873886428549505
     second: "\u5929\u79E4\u5EA7_4"
-=======
->>>>>>> 5abc9269e73658c2abd0609c27209ac1c11a2be5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,8 +108,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
-=======
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -130,7 +121,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
->>>>>>> 5abc9269e73658c2abd0609c27209ac1c11a2be5
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -138,17 +128,10 @@ TextureImporter:
       name: "\u5929\u79E4\u5EA7_0"
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 19
         y: 23
         width: 997
         height: 998
-=======
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
->>>>>>> 5abc9269e73658c2abd0609c27209ac1c11a2be5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,7 +146,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-<<<<<<< HEAD
     - serializedVersion: 2
       name: "\u5929\u79E4\u5EA7_1"
       rect:
@@ -252,8 +234,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-=======
->>>>>>> 5abc9269e73658c2abd0609c27209ac1c11a2be5
     outline: []
     customData: 
     physicsShape: []
@@ -269,13 +249,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       "\u5929\u79E4\u5EA7_0": -6690208722482884117
-<<<<<<< HEAD
       "\u5929\u79E4\u5EA7_1": 6684365217115258478
       "\u5929\u79E4\u5EA7_2": 1634509020653777911
       "\u5929\u79E4\u5EA7_3": -2868008585220634328
       "\u5929\u79E4\u5EA7_4": -459873886428549505
-=======
->>>>>>> 5abc9269e73658c2abd0609c27209ac1c11a2be5
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
