@@ -13,14 +13,8 @@ public class BackToHome : MonoBehaviour
         btn.onClick.AddListener(OnClick);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void OnClick()
     {
-        SceneManager.LoadScene("index");
+        SceneManager.LoadScene("inital");
     }
 }
