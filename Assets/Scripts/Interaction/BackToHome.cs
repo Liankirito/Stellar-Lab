@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class BackToHome : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         Button btn = this.GetComponent<Button>();

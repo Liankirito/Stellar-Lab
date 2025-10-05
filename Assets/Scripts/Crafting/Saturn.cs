@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Saturn planet in the crafting system
- */
+
 public class Saturn : MonoBehaviour
 {
     [Header("Planet Information")]

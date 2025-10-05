@@ -8,7 +8,7 @@ public class ElementManager : MonoBehaviour
     public List<string> addedElements = new List<string>();
     
     [Header("UI Elements")]
-    public Text elementsDisplayText; // 可選：顯示已添加元素的文本
+    public Text elementsDisplayText;
     
     [Header("Debug")]
     public bool showDebugLog = true;
@@ -73,7 +73,6 @@ public class ElementManager : MonoBehaviour
         UpdateElementsDisplay();
     }
 
-    // Update is called once per frame
     void Update()
     {
         

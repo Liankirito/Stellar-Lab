@@ -20,7 +20,6 @@ public void OnMouseDown()
         btn.onClick.AddListener(OnMouseDown);
     }
 
-    // Update is called once per frame
     void Update()
     {
         

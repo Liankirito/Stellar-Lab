@@ -12,7 +12,6 @@ public void OnMouseDown()
         AddToPot();
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
 protected override void Start()
     {
         base.Start();
@@ -21,7 +20,6 @@ protected override void Start()
         btn.onClick.AddListener(OnMouseDown);
     }
 
-    // Update is called once per frame
     void Update()
     {
         

@@ -5,16 +5,14 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
-/* AI-assisted */
-
 public class ClickCraft : MonoBehaviour
 {
     [Header("Required Components")]
     public Pot pot;
     
     [Header("UI Feedback")]
-    public Text feedbackText; // 可選：顯示合成結果的文本
-    public float feedbackDuration = 3f; // 反饋文本顯示時間
+    public Text feedbackText;
+    public float feedbackDuration = 3f;
     
     [Header("Audio")]
     public AudioSource audioSource;
@@ -23,13 +21,11 @@ public class ClickCraft : MonoBehaviour
     
     private GameObject lastCraftedPlanet;
     
-    // 用於 Button 的 OnClick 事件
     public void OnCraftButtonClicked()
     {
         CraftPlanet();
     }
     
-    // 也可以用於滑鼠點擊事件
     void OnMouseDown()
     {
         CraftPlanet();
@@ -58,18 +54,15 @@ public class ClickCraft : MonoBehaviour
     
     private void OnCraftSuccess(GameObject planet)
     {
-        // 播放成功音效
         if (audioSource != null && successSound != null)
         {
             audioSource.PlayOneShot(successSound);
         }
         
-        // 顯示成功消息
         if (feedbackText != null)
         {
             string planetName = "Unknown";
             
-            // 嘗試獲取星球名稱
             if (planet.GetComponent<Mercury>() != null) planetName = "Mercury (水星)";
             else if (planet.GetComponent<Venus>() != null) planetName = "Venus (金星)";
             else if (planet.GetComponent<Earth>() != null) planetName = "Earth (地球)";
@@ -90,13 +83,11 @@ public class ClickCraft : MonoBehaviour
     
     private void OnCraftFailed()
     {
-        // 播放失敗音效
         if (audioSource != null && failSound != null)
         {
             audioSource.PlayOneShot(failSound);
         }
         
-        // 顯示失敗消息
         if (feedbackText != null)
         {
             feedbackText.text = "Crafting failed! Check your elements.";
@@ -105,7 +96,6 @@ public class ClickCraft : MonoBehaviour
         }
         
         Debug.Log("Crafting failed!");
-        // 清空 pot
         pot.ClearPot();
     }
     
@@ -121,7 +111,6 @@ public class ClickCraft : MonoBehaviour
     {
         return lastCraftedPlanet;
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         Button btn = GetComponent<Button>();
@@ -130,7 +119,6 @@ public class ClickCraft : MonoBehaviour
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         

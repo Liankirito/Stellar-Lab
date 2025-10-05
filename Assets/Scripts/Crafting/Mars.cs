@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Mars planet in the crafting system
- */
+
 public class Mars : MonoBehaviour
 {
     [Header("Planet Information")]

@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Venus planet in the crafting system
- */
+
 public class Venus : MonoBehaviour
 {
     [Header("Planet Information")]
