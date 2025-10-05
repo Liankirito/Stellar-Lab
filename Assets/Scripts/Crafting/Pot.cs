@@ -8,8 +8,8 @@ public class Pot : MonoBehaviour
     public CraftingFormula craftingFormula;
     
     [Header("Spawn Settings")]
-    public Transform spawnPoint; // 星球生成位置
-    public bool destroyOnCraft = false; // 是否在合成後清空元素
+    public Transform spawnPoint;
+    public bool destroyOnCraft = false;
     
     [Header("Feedback")]
     public bool showCraftingFeedback = true;

@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Mercury planet in the crafting system
- */
+
 public class Mercury : MonoBehaviour
 {
     [Header("Planet Information")]

@@ -30,7 +30,7 @@ public class planet : MonoBehaviour
         {
             if (randomValue < item.dropChance)
             {
-                InventoryManager.AddResource(item.resourceName, 1); 
+                InventoryManager.AddResource(item.resourceName, 1);
                 return;
             }
             else

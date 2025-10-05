@@ -1,8 +1,5 @@
 using UnityEngine;
 
-/**
- * Represents Uranus planet in the crafting system
- */
 public class Uranus : MonoBehaviour
 {
     [Header("Planet Information")]

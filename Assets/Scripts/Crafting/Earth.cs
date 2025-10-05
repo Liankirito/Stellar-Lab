@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Earth planet in the crafting system
- */
+
 public class Earth : MonoBehaviour
 {
     [Header("Planet Information")]

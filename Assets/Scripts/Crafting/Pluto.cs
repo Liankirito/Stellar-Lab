@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Pluto planet in the crafting system
- */
+
 public class Pluto : MonoBehaviour
 {
     [Header("Planet Information")]

@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Jupiter planet in the crafting system
- */
+
 public class Jupiter : MonoBehaviour
 {
     [Header("Planet Information")]

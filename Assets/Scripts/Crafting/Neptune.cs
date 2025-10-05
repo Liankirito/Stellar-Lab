@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/**
- * Represents Neptune planet in the crafting system
- */
+
 public class Neptune : MonoBehaviour
 {
     [Header("Planet Information")]
